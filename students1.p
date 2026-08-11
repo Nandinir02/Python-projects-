@@ -1,0 +1,11 @@
+ID,Name,Class,Age,Maths,Science,English,Attendance,City
+101,Nandini,11,17,92,88,91,95,Bangalore
+102,Riya,11,16,85,79,88,90,Mysore
+103,Kiran,12,18,76,82,80,87,Hubli
+104,Asha,11,17,95,91,94,98,Bangalore
+105,Rahul,12,18,68,72,75,82,Mangalore
+106,Pooja,11,17,89,85,87,93,Belgaum
+107,Arjun,12,18,81,78,84,88,Bangalore
+108,Sneha,11,16,97,96,95,99,Mysore
+109,Vikram,12,18,73,69,77,80,Hubli
+110,Megha,11,17,90,92,89,96,Bangalore
